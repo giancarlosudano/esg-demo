@@ -1,0 +1,72 @@
+import streamlit as st
+from langchain.chat_models import ChatOpenAI
+from langchain.schema import HumanMessage, SystemMessage
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+import os
+import logging
+from dotenv import load_dotenv
+from langchain_openai import AzureChatOpenAI
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
+
+def on_submit_button_click():
+    st.toast("Processing... Please wait...", icon='⏳')
+
+    # Prepare the system message
+    message_system = SystemMessage(content="You're are a helpful," 
+                                          "talkative, and friendly assistant.")
+    
+    # Prepare the user message using the value from the `text_area`
+    message_user = HumanMessage(content=st.session_state.input_text)
+
+    full_response = []
+    # Loop through the chunks streamed back from the API call
+    for resp in model.stream([message_system, message_user]):
+        wordstream = resp.dict().get('content')
+
+        # if wordstream is not None
+        if wordstream:
+            full_response.append(wordstream)
+            result = "".join(full_response).strip()
+            # This streaming_box is a st.empty from the display
+            with streaming_box.container():
+                st.markdown('---')
+                st.markdown('#### Response:')
+                st.markdown(result)
+                st.markdown('---')
+
+    # Concatenate and store the streamed chunks to a full response
+    st.session_state.output_text = "".join(full_response).strip()
+
+    st.toast("Processing complete!", icon='✅')
+
+
+load_dotenv()
+model = AzureChatOpenAI(
+    azure_endpoint=os.getenv("AZURE_OPENAI_BASE"), 
+    api_key=os.getenv("AZURE_OPENAI_KEY"),
+    api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
+    max_tokens=1000, 
+    temperature=0,
+    deployment_name=os.getenv("AZURE_OPENAI_MODEL"),
+    model_name=os.getenv("AZURE_OPENAI_MODEL_NAME"),
+    streaming=True
+)
+# replace <API_KEY> above with your API_KEY
+
+# Main Form
+with st.form(key='form_main'):
+    user_input = st.text_area("Enter your text here", key='input_text')
+    submit_button = st.form_submit_button(label='Submit', on_click=on_submit_button_click)
+
+
+# For Showing the Streaming Output
+streaming_box = st.empty()
+
+# For Showing the Completed Output
+if 'output_text' in st.session_state:
+    st.markdown('---')
+    st.markdown('#### Response:')
+    st.markdown(st.session_state['output_text'])
+    st.markdown('---')

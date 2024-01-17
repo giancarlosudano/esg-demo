@@ -1,0 +1,1077 @@
+# Statement on principal adverse impacts of investment
+
+# decisions on sustainability factors
+
+```
+Entity name: GENERALI REAL ESTATE S.P.A. SOCIETA' DI GESTIONE DEL RISPARMIO - G.R.E.
+SGR S.P.A.
+```
+```
+LEI code: 8156006D61AB65BBC49 2
+```
+### 1. Summary
+
+```
+Generali Real Estate SGR (hereinafter “GRE SGR”) considers principal adverse impacts of its investment
+decisions on sustainability factors. The present statement is the consolidated statement on principal adverse
+impacts on sustainability factors of GRE SGR. This document explains GRE SGR approach on the “Principal
+Adverse Impacts of investment decisions on sustainability factors”.
+```
+```
+This statement on principal adverse impacts on sustainability factors covers the reference period from 1st
+January to 31st December 2022.
+```
+```
+Monitoring activities and planned actions to mitigate the potential damage caused by climate change, waste
+or misuse of natural resources (such as fossil fuels), as well as the active engagement with the stakeholders
+involved in various aspects of all business-related activities and the exclusion of companies/ counterparties
+pursuing not ethical behaviors are expected to decrease the principal adverse sustainability impacts
+identified by GRE SGR.
+```
+```
+Since GRE SGR focuses its business on managing Real Estate investments, the principal adverse
+sustainability impacts (hereinafter “PAIs”) that are identified are the most critical and relevant for the
+management of physical assets i.e., climate change and natural disasters, pollution, water and waste, risk
+of involvement in ethical violations (e.g., human rights, corruption, compliance with laws).
+GRE SGR considers PAIs as part of the business-as-usual and running operations, as GRE SGR has
+committed to embedding ESG throughout daily work through the implementation of tangible actions aimed
+to (i) improve the environmental impact created by underlying real estate assets (ii) further enhance the
+impact of social welfare of our stakeholders through a long-term investment management strategy of our
+real estate underlying assets, also through a transparent and efficient governance system.
+```
+```
+It is essential for GRE SGR to adopt an effective and market-leading long-term fund strategy to attract and
+retain investors. As the demand for sustainable products and sustainable work ethic within the real estate
+sector is increasing, GRE SGR takes a proactive approach to establish the ESG credentials of its funds,
+ensure to have a multi-year outlook and advocate our sustainability management to reflect our beliefs,
+market’s needs and regulatory requirements. GRE SGR ambition is to continuously improve its sustainability
+framework and of the funds/assets managed through integrating a series of tangible actions.
+```
+```
+GRE SGR complies with art. 4 of the SFDR since March 2021 (please refer to http://www.generalirealestate.com
+for further details), in order to provide investors and stakeholders in general a transparent disclosure on the
+way PAIs are identified, measured, monitored and reduced/ minimized over time within our portfolio under
+management.
+```
+```
+For the final purpose of ensuring its investors the maximum level of commitment in transparency, GRE SGR
+drafted this PAI Statement according to the requirements of the Regulatory Technical Standards (“RTS”)
+adopted by the Delegated Regulation (EU) 2022/1288, including quantitative indicators respect to the PAIs
+for the reporting period 2022.
+```
+
+Pursuant to the mentioned provisions, this PAI Statement takes into due account the specificity of the Real
+Estate investment management business, the nature and scale of the activities of GRE SGR and the types
+of financial products/ assets under management.
+
+Consistently with the above, the list of PAIs used to assess GRE SGR’s portfolio impact includes the
+following PAIs:
+
+- Exposure to fossil fuels through real estate assets (share of investments in real estate assets
+    involved in the extraction, storage, transport or manufacture of fossil fuels) (Table 1);
+- Exposure to energy-inefficient real estate assets (share of investments in energy-inefficient real
+    estate assets) (Table 1);
+- GHG Emissions (Table 2);
+- Energy consumption intensity (Table 2);
+- Certified Buildings (additional proprietary indicator).
+
+There are no applicable indicators for Real Estate investments provided in Annex I, Table 3 as referred to
+in Article 6(1), point (b), in the format in Table 3 of Annex I Delegated Regulation adopting the RTS.
+Furthermore, GRE SGR assessed the Table 3 indicators as not relevant for its investments.
+
+The PAI statement refers to the GRE SGR portfolio, considering funds set-up and directly managed by GRE
+SGR, including the direct investments (funds managed by GRE SGR), the indirect investments (funds of
+funds managed by GRE SGR) and real estate debt investments (i.e., CRE debt funds).
+
+About 90% of the total AuM, refers to funds for which GRE SGR has operational control at real estate asset
+level. The remaining of the investment portfolio refers to indirect investments and real estate debt
+investments for which GRE SGR does not have operational control at real estate asset level.
+
+The methodological approach for the purpose of KPI calculation follows the references cited in the Annex I
+of the RTS adopted by the Delegated Regulation (EU) 2022/1288 and any methodological assumption and
+estimation adopted has been appropriately disclosed in the “Explanation” column of the table below and
+explained in the Section “Description of policies to identify and prioritize principal adverse impacts on
+sustainability factors”. In the context of the direct portfolio (i.e., properties managed at real estate level by
+GRE SPA), GRE SPA serves as the data provider by collecting data/ information on the underlying real
+estate assets. For the indirect and commercial real estate portfolios, the operational management of the
+properties is delegated to third-party managers, thereby resulting in distinct methodologies being employed.
+
+## 2. Description of the principal adverse impacts on sustainability factors
+
+Based on the impact figures also the actions planned could be updated.
+The adverse sustainability indicators in Table 1 of Annex I that are not listed in the table below are
+considered “Not Applicable” to investments in real estate assets
+
+```
+Indicators applicable to investments in real estate assets
+```
+Adverse sustainability
+indicator
+
+```
+Metric Impact
+202 2*
+```
+Explanation Actions taken, and actions
+planned and targets set for the
+next reference period
+Fossil
+Fuels
+
+```
+17.
+Exposure
+to fossil
+fuels
+through
+real estate
+assets
+```
+```
+Share of
+investments in
+real estate
+assets involved
+in the
+extraction,
+storage,
+transport or
+manufacture of
+fossil fuels
+```
+```
+< 0,01%***
+```
+```
+The involvement in the
+fossil fuels sector is
+assessed based on the
+primary intended use of
+the real estate asset.
+```
+```
+GRE SGR chose to voluntarily
+measure and disclosed the PAIs, a
+strategic choice so that GRE SGR
+will have the opportunity to develop
+in the future a more detailed
+baseline to run data collection/
+estimation for negative impacts
+reduction.
+```
+```
+For KPI 17, the actions put in place
+by GRE SGR include the
+```
+Energy
+Efficiency
+
+```
+18.
+Exposure
+```
+```
+Share of
+investments in
+66 %****
+```
+```
+The figure consists of
+86 % actual data from
+```
+
+```
+to energy-
+inefficient
+real estate
+assets
+```
+```
+energy-
+inefficient real
+estate assets
+```
+```
+Energy Performance
+Certificates (“EPC”) and
+14% from estimates
+(please refer to the
+proprietary estimation
+methodology section).
+```
+```
+application of an ESG due
+diligence process to make sure
+that potential findings on fossil fuel
+related exposure are taken into
+consideration during the
+investment decision making
+process. The aim of this is to
+maintain a very residual share of
+investments with exposure to fossil
+fuel in the next reporting period.
+```
+```
+For KPI 18, the actions put in place
+by GRE SGR include a wide range
+of ESG strategies carried out
+through GRE SPA or other real
+estate service provider based on
+AIFs’ rules/prospectus, such as the
+application of actions aimed to
+increase the share of investments
+in energy efficient assets. Those
+actions are embedded during the
+overall asset life cycle as during
+the investments /divestments
+decision making process, capex/
+development/ repositioning/
+refurbishment (if needed) and,
+ordinary/ recurring asset
+management process involving
+tenants and counterparties.
+The objective for the next reporting
+periods, consistently with budget,
+technical issues and availability of
+EPC benchmark, is to
+progressively increase the
+efficiency of the assets subject to
+reposition.
+```
+* The PAIs are considered is the observation of the overall year values of all available figures from 01.01.2022 to 31.12.2022.
+** The historical comparison of the period reported on with the previous period reported will be disclosed starting from the next reporting period
+because 2021 data is not available. 2022 represents the first year of quantitative reporting required by Delegated Regulation (EU) 2022/1288.
+*** The figure consists of a non-significant exposure related to fossil fuel retail activity within a shopping center. The lease of the business accounts
+for less than 0, 01 % of the total portfolio.
+**** As required by the Regulatory Technical Standards, the computation of the figure does include all buildings required to abide by EPC and NZEB
+rules defined by EPBD (Energy Performance of Buildings Directives).
+
+```
+Other indicators for principal adverse impacts on sustainability factors
+```
+Adverse sustainability
+indicator
+
+```
+Metric Impact
+2022
+```
+Explanation Actions taken, and actions
+planned and targets set for the
+next reference period
+Greenhous
+e gas
+emissions
+
+18. GHG
+emissions
+
+```
+Scope 1 GHG
+emissions
+generated by
+real estate
+assets
+```
+15. 397
+tonCO 2
+
+```
+The direct emission
+sources considered
+refer to energy
+consumption for space
+heating.
+```
+```
+GRE SGR chose to voluntarily
+measure and disclosed the PAIs, a
+strategic choice so that GRE SGR
+will have the opportunity to develop
+a more detailed baseline to run
+data collection/ estimation for
+negative impacts reduction.
+```
+```
+The actions put in place by GRE
+SGR include a wide range of ESG
+strategies carried out through GRE
+```
+```
+Scope 2 GHG
+emissions
+generated by
+real estate
+assets
+```
+```
+4 3.
+tonCO 2
+```
+```
+The indirect emission
+sources considered, in
+accordance with the
+GHG Protocol, refer to
+energy consumption of
+purchased electricity,
+```
+
+```
+district heating and
+cooling. Scope 2 GHG
+emissions are based on
+the Market-based
+calculation method.
+```
+```
+SPA or other real estate service
+provider based on AIFs’
+rules/prospectus such as the
+application of actions aimed to
+increase the penetration and
+accuracy of data.
+Those actions are mostly
+implemented during the ordinary/
+recurring management of the real
+estate assets involving tenants
+(i.e., through “green leases” ) and
+counterparties (i.e., adopting
+adequate vendors/ systems/
+technologies).
+```
+```
+The objective for the next reporting
+period, consistently with budget,
+and tenant’s collaborations, is to
+further increase the quality and
+penetration of data.
+```
+```
+Scope 3 GHG
+emissions
+generated by
+real estate
+assets
+```
+```
+4 4.
+tonCO 2
+```
+```
+The indirect emission
+sources considered, in
+accordance with the
+GHG Protocol, refer to
+the downstream leased
+assets categories
+related to tenants’
+energy consumption.
+Total GHG
+emissions
+generated by
+real estate
+assets
+```
+```
+10 3.
+tonCO 2
+```
+```
+Scope 1, Scope 2 and
+Scope 3 GHG
+emissions.
+```
+The computation (i.e.,
+collection of data /
+estimation) covers 94%
+of the total investment
+portfolio since the
+remaining part, the 6%
+of the investment
+portfolio, is composed
+by assets under
+development or
+refurbishment (please
+refer to the following
+section for details on
+the methodological
+approach).
+Energy
+consumpti
+on
+
+19. Energy
+consumpti
+on intensity
+
+```
+Energy
+consumption in
+kWh of owned
+real estate
+assets per
+square meter
+```
+```
+187
+kWh/m^2
+year
+```
+```
+The figure consists of
+ca. 37 % based on
+actual data from meter
+measurements.
+```
+```
+The computation covers
+94 % of the total
+investment portfolio
+since the remaining
+part, the 6% of the
+investment portfolio, is
+composed by assets
+under development or
+refurbishment (please
+refer to the following
+section for details on
+the methodological
+approach).
+```
+```
+GRE SGR chose to voluntarily
+measure and disclosed the PAIs, a
+strategic choice so that GRE SGR
+will have the opportunity to develop
+a more detailed baseline to run
+data collection/ estimation for
+negative impacts reduction.
+```
+```
+The actions put in place by GRE
+SGR include a wide range of ESG
+strategies carried out through GRE
+SPA or other real estate service
+provider based on AIFs’
+rules/prospectus such as the
+application of actions aimed to
+increase the penetration and
+accuracy of data.
+Those actions are mostly
+implemented during the ordinary/
+recurring management of the real
+estate assets involving tenants (ie.
+through “green leases” ) and
+counterparties (ie. adopting
+adequate vendors/ systems/
+technologies).
+```
+
+```
+The objective for the next reporting
+period, consistently with budget,
+and tenant’s collaborations, is to
+further increase the quality and
+penetration of data.
+```
+* The PAIs are considered is the observation of the overall year values of all available figures from 01.01.2022 to 31.12.2022. In order to further
+increase data quality and consistently with the methodology that accounts GHG emission and energy consumption, in case an asset has been
+purchased during the year, its GHG emission and energy consumption has been weighted by the related holding period during 2022.
+
+```
+Other voluntary indicators for principal adverse impacts on sustainability factors
+```
+Adverse sustainability
+indicator
+
+```
+Metric Impact
+2022
+```
+Explanation Actions taken, and actions
+planned and targets set for the
+next reference period
+Certified
+Buildings
+(Proprietar
+y indicator)
+
+```
+Exposure
+to real
+estate
+assets that
+do meet
+adequate
+green
+certification
+standards
+```
+```
+Share of
+investments in
+real estate
+assets that do
+achieve
+adequate green
+certification
+standards
+```
+```
+60 %
+```
+```
+As appropriate
+certification standards
+for green buildings, are
+considered the main
+international
+references^1 and the
+local green building
+certifications^2.
+The indicator
+calculation includes
+funds directly managed
+by GRE SGR, on which
+the Company has
+greater monitoring
+capability. Therefore,
+indirect funds and
+assets undergoing
+restructuring are
+excluded from the
+scope of calculation.
+```
+```
+GRE focused on buying and/or
+developing certified buildings to
+increase the share of certified
+buildings in the portfolio.
+```
+```
+All new investments must undergo
+a sustainability in house
+assessment, to ensure the
+acquisition of assets with high
+sustainability certifications, to
+increase the portfolio credentials
+through certification and/or
+assessment.
+```
+(^1) The Leadership in Energy and Environmental Design (“LEED”) certification and Building Research Establishment Environmental Assessment Method (“BREEAM”)
+certification 2 are international recognized certification aligned with Generali Green Bond Framework and the market best practices
+France: Haute Qualité Environnementale (“HQE”)
+Germany: Deutsche Gesellschaft für Nachhaltiges Bauen (“DGNB”)
+
+### Description of policies to identify and prioritize principal adverse impacts on sustainability
+
+### factors
+
+Investment choices can have a potential adverse impact on stakeholders, environment and society.
+GRE SGR believes that climate change, also given the peculiarities of the real estate asset class, is one of
+the most relevant topics regarding the impacts of its investment choices.
+As an investment manager, GRE SGR can mainly have a significant effect by:
+
+- further reducing the investments in underlying real estate assets not reaching certain environmental
+    labels or consumptions thresholds;
+- further increasing the fund and asset management efforts towards initiatives and projects aimed at
+    increasing the environmental performance of the buildings;
+- sensitizing the tenants’ behaviors as ultimate users of the assets and, thus, responsible for the daily
+    energy.
+
+On the 27 th of April 20 23, the Board of Directors of GRE SGR approved the _“Sustainability Policy”_ and
+_“Adverse Sustainability Impact Statement”_.
+The Board of Directors is responsible of the approval and review of the Sustainability Policy and the "
+_Adverse Sustainability Impact Statement”_ upon proposal of the CEO. The CEO is involved, inter alia, in
+presenting to the Board of Directors the Sustainability Policy to be approved and is also in charge of the
+implementation of such Policy with the support of the GRE SGR ESG function directly reporting to the GRE
+
+
+```
+SGR CEO. On an annual basis, the Board assesses and reviews the underlying methodology and the
+outcomes of the implementation of the Policy.
+The Board of Directors is also involved in the approval of this PAI Statement 2022, scheduled for June 23,
+2023.
+```
+```
+Based on the above, GRE SGR has decided to assess its impacts on sustainability factors through different
+methodologies, criteria and tools, described below.
+```
+```
+Sustainable due diligence
+Acquisitions^1 undergo environmental/ sustainable due diligence (GRESA - Generali real estate suitability
+assessment) that is performed by GRE SPA with regards to the funds set-up and the directly managed funds
+by GRE SGR, excluding indirect funds and CRE debt investments.
+Our proprietary Sustainable Assessment tool measures the weighted performance of each building
+according to a series of dimensions such^2 as:
+o Energy
+o Water
+o Waste
+o Materials
+o Land Use & Ecology
+o Pollution
+o Transport
+o Health & Wellbeing
+o Management
+```
+```
+The outputs of these checks are embedded in the due diligence for informational purposes and for
+consideration alongside other factors in the investment decision making process.
+```
+```
+The Sustainable Due Diligence for Debt investments is subject to an ESG Scorecard, which provides an
+overall ESG score for each Loan, based on indicators weighted on materiality and contribution to the SDGs.
+The ESG Scorecard is also used to assess the ESG profile of the project Sponsor. ESG Scorecard uses a
+number of indicators at asset and Sponsor level which may evolve over time and be adapted to industry
+developments (e.g. availability of a Sustainable Building Certification, eco-efficiency and refurbishment,
+tenant health and safety, and well-being, labor rights and working conditions, controversy assessment and
+governance processes).
+```
+```
+Data analytics
+GRE SGR through GRE SPA is implementing a Data Analytics project covering most of European countries.
+Existing utilities consumption data are collected and centralized in a digital platform, which automatically
+calculates/ estimates CO 2 emissions and monitors their evolution, also supported by an innovative prop-
+tech, green-tech software as a service solution.
+```
+```
+Green Leases
+GRE SGR through GRE SPA is proposing a new “Standard Green Lease Clause”, each time a lease with a
+tenant is negotiated or renegotiated. This clause will allow to obtain at minimum the tenants’ utility
+consumptions on a regular basis, so that GRE, on behalf of GRE SGR, can measure and take action to
+improve its management, its buildings and the CO₂ footprint, in close collaboration with the tenants. Through
+Green Lease, GRE SGR considers other selected ESG aspects by:
+```
+(^1) Without prejudice to the commitment to carry out sustainable due diligence for all potential investments, there may be reasons in case
+it is not possible to run the sustainable due diligence (e.g., unavailability of information in relation to the timing of the property subject to
+investment, inability to receive certain information on the property). In the event of the impossibility of carrying out sustainable due
+diligence, a reasoned information will be provided.
+(^2) Please note that dimensions/ areas of analysis are illustrative, they can be different depending on the type of asset under scrutiny and
+given the evolution of the ESG market the Sustainable Due Diligence methodology might be modified and updated with different
+dimensions/ area of analysis.
+
+
+- Framing the relations of the parties to achieve compliance with the obligations prescribed by the
+    regulations in force but also to embark the two parties on common and voluntary ESG commitments;
+- Support the occupants of rented premises so that their use maintains or improves environmental
+    quality by promoting productivity, the health and well-being, saving energy and natural resources
+    and respecting the environment;
+- Dialogue between the landlord and the tenant for a common environmental management of assets
+    that create transparent exchanges about energy optimization and environmental actions.
+
+```
+Physical and transitional risk analysis
+GRE SGR, through GRE SPA, carried out the first impact analysis for its full portfolio in 2020. Thanks to the
+methodology developed by a specialized and market leader service provider for the potential estimation of
+climate risk using a model - the "Climate VaR"^3 , GRE SGR has been able to geo-localize all its assets and
+to map out the physical risks related to global warming.
+A list of key hazard types has been assessed under climate change IPCC (Intergovernmental Panel on
+Climate Change) scenarios. As of today, the list of key hazards is the following:
+o Water stress
+o Wildfire
+o Flood
+o Heatwave
+o Cold wave
+o Hurricane
+o Sea level rise
+```
+```
+The outputs of this analysis are used to fulfil oversight duty on investments and related investment decision
+making considerations.
+```
+```
+Transition to a low-carbon economy
+GRE SGR voluntarily pledges the reduction of portfolios’ emissions and - more broadly, the low-carbon
+transition. GRE developed a proprietary methodology to assess and improve portfolios climate sensitivity by
+(i) identifying climate leaders and laggards and (ii) optimizing portfolios according to various climate
+strategies, as recommended by market best practice. As a tangible expression of this commitment, the
+Generali Group joined the Net-Zero Asset Owner Alliance, a coalition of some of the world's leading asset
+owners, convened by the United Nations, delivering on a bold commitment to make their investment
+portfolios – including real estate - climate-neutral by 2050.
+Moreover, GRE is currently using a tool aimed to estimate the impact of transition risk. The tool, developed
+by a leader in the data provider’s industry, represents one of the few tools currently available on the market
+for measuring / quantifying / estimating climate-related risks and defining any opportunities for an investment
+portfolio. It is expected that, given the complexity of a climate risk quantification process / model, the results
+that will come from the implementation of the tool itself will be taken into consideration as indicative and
+preliminary estimates to be refined over the next few years as the market will develop more reliable models.
+```
+```
+Counterparties screening
+GRE SGR, through its service provider GRE SPA, considers the following controversies and/or business
+sectors as relevant in the ESG assessment:
+```
+- Involvement in controversies which potentially infringe the principles of United Nation Global Compact:
+    o companies involved in serious or systematic human rights and/or labour rights violations;
+    o companies involved in severe environmental damages;
+    o companies implicated in cases of gross corruption and bribery.
+- Involvement in controversial business sectors:
+
+(^3) The Climate Value-at-Risk (“Climate VaR”) is a model, made available by an international data provider, which provides an estimate of
+climate physical and transition risk. The tool makes it possible to measure climate-related risks and define any opportunities for an
+investment portfolio. Given the complexity of the model, the results of the implementation of the Climate VaR will be taken into
+consideration as a rough and preliminary estimate to be refined over the next years, together with the development of more reliable
+models.
+
+
+o armament and weapons that violate fundamental humanitarian principles through their normal
+use (cluster bombs, antipersonnel landmines, nuclear weapons, biological and chemical
+weapons);
+o coal.
+The screening takes place on counterparties defined as buyer, seller of co-investors.
+
+Control and check are based on the analysis of several dimensions in case the counterparty is deemed,
+according to GRE SPA analysis, to be characterized by poor ESG practices on the above-mentioned
+dimensions, the business opportunity is aborted.
+
+The methodological approach adopted for the selection and prioritization of PAIs considers the specificity of
+the Real Estate investment management business, the nature and scale of the activities of GRE SGR and
+the types of financial products/ assets under management.
+
+In accordance with Tables 1 and 2 of Annex 1 of the Delegated Regulation (EU) 2022/1288 and consistent
+with the availability and relevance of the required data, the following PAIs were selected:
+
+- KPI 17 - Exposure to fossil fuels through real estate assets (share of investments in real estate assets
+involved in the extraction, storage, transport or manufacture of fossil fuels) (Table 1);
+- KPI 18 - Exposure to energy-inefficient real estate assets (share of investments in energy-inefficient
+real estate assets) (Table 1);
+- KPI 18 - GHG Emissions (Table 2);
+- KPI 19 - Energy consumption intensity (Table 2);
+- Certified Buildings (additional proprietary indicator).
+
+GRE SGR takes into consideration the probability, the severity, and the potentially irremediable character
+of the PAIs considered through a proprietary methodology based on a qualitative scale.
+The prioritization of PAIs has been established through a matrix that takes into account the probability and
+severity of these major negative effects, including their potentially irreparable nature, as required by Article
+7 "RTS." The prioritization of each PAI is determined by the value (ranging from 1 to 3) calculated through
+the arithmetic mean of the scores assigned to each of the aforementioned characteristics (severity,
+probability, and irreparability) in accordance with the professional judgment of GRE SGR.
+Specifically, the evaluations concerning the characteristics of the negative effects have taken into
+consideration the potential magnitude of the adverse impact in the specific case of GRE SGR as well as the
+commitment demonstrated in adhering to international standards and initiatives. For this reason, the
+considered PAIs have a homogeneous priority.
+
+Methodology & approach for the PAIs calculation
+General approach
+The approach implemented by GRE SGR, in relation to the disclosed KPIs, has included the following
+considerations and assumptions:
+
+```
+TABLE 1 – KPI 17: Exposure to fossil fuels through real estate assets
+```
+- Assets under construction, under refurbishment or vacant are considered as “non-exposure to
+    the fossil fuels sector”.
+- The observation of the assets’ underlying activities led to the identification of a petrol station
+    within a shopping center. However, the lease of the business accounts for less than 0,1% of the
+    total leases of the asset and therefore the total exposure to fossil fuels (based on the underlying
+    activities rent rate over the total rent of the assets) of the portfolio represents a non-significant
+    exposure equivalent to 0,005%.
+- For direct investments the exposure is observed based on the primary intended use of the assets,
+    while for indirect equity / CRE debt information is requested from Fund Managers / Project
+    Sponsor.
+
+```
+TABLE 1 – KPI 18: Exposure to energy-inefficient real estate assets
+```
+
+- Buildings that fall under other jurisdictions than the European Union are not required to abide by
+    EPC and NZEB rules defined by EPBD (Energy Performance of Buildings Directives). This
+    approach mainly concerns the indirect equity portfolio located in Asia and Oceania.
+- For direct investments, actual information is directly collected and, when not available, estimated
+    using GRE proprietary methodology (described in the next section) based on national regulatory
+    frameworks, statistics and scenario analysis. For indirect investment/ CRE debt information is
+    requested from Fund Managers / Project Sponsor.
+
+```
+GRE Proprietary methodology and assumptions for Table 1 – KPI 18: Exposure to energy-inefficient real
+estate assets
+GRE SGR and GRE SPA, for the purpose of “TABLE 1 – KPI 18: Exposure to energy-inefficient real estate
+assets” calculation, developed a proprietary methodology to estimate the energy efficiency of assets for
+which actual Energy Performance Certificate (“EPC”) data is not available.
+```
+```
+The methodology is based on national regulatory frameworks, statistics and scenario analysis and is built
+on the estimation of the EPC Letter of the building, fundamentals from which it is determined whether the
+asset is energy inefficient by applying the criteria set by the RTS.
+```
+```
+Buildings for which the project has been authorized after 31st December 2020 for construction and for which
+no energy efficiency classification information is available, will be verified to be located in Member States
+that have implemented from 2021 minimum energy performance requirements for new buildings aligned
+with NZEB rules, as reported by BPIE – Building Performance Institute Europe in its document “Nearly Zero:
+a review of EU Member State implementation of new build requirements”. Therefore, assets satisfying the
+requirements are assumed to be energy efficient according to the RTS.
+```
+```
+GRE SGR buildings constructed before 31st December 2020, for which EPC information is not always
+available are located in Italy, France, Germany, Poland, Czech Republic and Spain. For these assets, the
+EPC Letter corresponding to the energy efficiency class is attributed starting from the Primary Energy
+Demand^4 value through criteria established or assumed by external references at national level, in particular:
+```
+- Italy – the energy-inefficiency threshold has been determined through a simulation on
+    comparable buildings on the SIAPE database (Sistema Informativo sugli Attestati di Prestazione
+    Energetica), the Italian national tool to collect the Energy Performance Certificates of buildings
+    and real estate units as established by Interministerial Decree 26/06/ 2015.
+- France – the energy-inefficiency threshold has been determined through a simulation on
+    comparable buildings on the Observatoire DPE (Diagnostic de Performance Énergétique)
+    Analyses Statistiques, the French national tool performing the database managed by the Agence
+    De la Transition Écologique (ADEME) to collect the Energy Performance Certificates of buildings
+    and real estate units.
+- Germany, Poland, Czech Republic and Spain – the energy-inefficiency threshold has been
+    determined as the PED belonging to the Top 15% (for each building’s intended use type) in terms
+    of energy efficiency of the national real estate stock defined by the Real Estate ESG Index
+    developed by Deepki.
+
+```
+Where the actual data on the Primary Energy Demand of the asset in the portfolio is not available, the actual
+energy consumption intensity figure is adopted, assuming it as being comparable.
+```
+```
+TABLE 2 – KPI 18: GHG emissions and KPI 19: Energy consumption intensity
+```
+- KPI 18 - Table 2 is calculated by applying to GHG emissions of the entire real estate asset an
+    attribution factor based on the percentage of ownership of the building, in accordance with what
+    defined for different asset classes by PCAF (Partnership for Carbon Accounting Financials) in
+
+(^4) The ‘Primary Energy Demand’ (PED) of a real estate asset is the amount of energy that must be generated originally in order to meet
+the total energy demand of the building or real estate unit, equivalent to heating and cooling to maintain the desired temperature of the
+building and the coverage of hot water demand. The calculation of the Primary Energy Demand takes place through a technical
+assessment whose methodology is defined by the national regulatory framework transposing the EPBD (Energy Performance of Buildings
+Directives).
+
+
+```
+the document PCAF Global GHG Standard^5. For investments in CRE debt, the attribution is
+calculated as 'Project Loan-To-Value [%]' multiplied by 'GRE Fund ownership of the Loan [%]'.
+```
+- KPI 19 - Table 2 is calculated by dividing the real estate assets total energy consumption
+    attributable to GRE by the sum of the Net Leasable Area attributable to GRE. The attribution
+    factor, according to the same methodology as described previously, is based on the percentage
+    of ownership of the building, in accordance with what defined for different asset classes by PCAF
+    (Partnership for Carbon Accounting Financials) in the “Global GHG Accounting & Reporting
+    Standard for the Financial Industry”.
+- Assets under construction, under refurbishment or vacant are considered as having no energy
+    consumption and therefore the adverse impact does not materialize.
+- For direct investments, data are extracted from a data analytics tool.
+    The model inputs values from the same month of the previous year or the next closest month. If
+    the coverage rate is insufficient to achieve an observation rate deemed appropriate, the missing
+    energy consumption is estimated by extracting data from a benchmarking tool based on a model
+    that considers asset characteristics such as area, country, primary use, and annual heating and
+    cooling degree days. For CRE debt, data are directly collected from the Project Sponsor
+    (representing ca. 5 % of the total portfolio). For indirect equity, which accounts for ca 5 % of the
+    total portfolio, data are estimated through extrapolation of a sample of directly collected data from
+    the Fund Managers.
+- For assets for which the breakdown of Scope 1, Scope 2 and Scope 3 emissions is not available
+    and only the total GHG emissions data are available, the breakdown figures are estimated
+    through an internal portfolio benchmark.
+- GHG emissions and energy consumption of the assets in GRE SGR portfolio are accounted only
+    for the period related to the days of detention during 2022.
+
+```
+Data source
+In general, data sources and information for direct funds consist of direct observations and specific due
+diligence. For indirect funds, the sources consist of the evidence from third-party asset managers. Further
+information is available in the Methodology & approach for the PAIs calculation sub-paragraph “General
+approach”.
+```
+```
+Limitation to methodology
+GRE SGR is aware of the margins of error that may arise due to the utilization of estimates in calculating
+the PAIs "Exposure to energy-inefficient real estate assets", "GHG emissions" and "Energy consumption
+intensity".
+```
+### Engagement policies
+
+```
+GRE SGR is proactive in reducing the environmental impact of the asset portfolio as well as integrating
+environmental, social and governance (ESG) metrics and monitoring into the business operations.
+```
+```
+The buildings sector consumes around 40% of the world’s energy and contributes up to 30% of global annual
+greenhouse gas emissions. There is a high internal awareness and understanding that the real estate sector
+is a key contributor to global trends such as climate change and that there is an opportunity for GRE to drive
+large impact and demonstrate leadership within the market.
+```
+```
+GRE SGR implemented and updated the “Sustainability Policy” and “Adverse Sustainability Impact
+Statement”, publicly available on GRE’s website, that aims to describe the policies on the identification and
+prioritisation of principal adverse sustainability impacts and indicators, the principal adverse sustainability
+impacts and any action taken in relation thereto, the reference to GRE SGR adherence to responsible
+business conduct codes and internationally recognized standards for due diligence and reporting and, where
+relevant, the degree of GRE SGR alignment with the objectives of the Paris Agreement^6.
+```
+(^5) Document available at webcarbonaccountingfinancials.com
+(^6) The Paris Agreement is a legally binding international treaty on climate change to limit global warming to 1.5°C. It was adopted by 196
+Parties at the UN Climate Change Conference (COP21) in Paris, France, on 12 December 2015. It entered into force on 4 November
+
+2016. Futher information available at [http://www.unfccc.int](http://www.unfccc.int)
+
+
+- GRE SGR, through GRE SPA, implements a wide range of ESG engagement actions to mitigate the
+    PAIs considered in the previous section, in particular regarding tenants and counterparties:
+    - Tenants: with Green Lease, GRE SGR undertakes the integration of the most important ESG topics
+    into commercial leases in order to engage with tenants for a win-win sustainable collaboration, and
+    to meet demand for data analytics and disclosure.
+    - Investors: most of GRE SGR funds have implemented an ESG framework aimed at granting a
+    sustainable allocation of capital into certified assets, in conjunction with a strong governance
+    process, enhanced by a set of policies and processes able to further increase transparency, fairness
+    and productivity. For example, the implementation of multiple risk management layers is granting
+    sound monitoring capabilities, the development of cutting-edge data driven research adds objective
+    and up-to-date ground to the underwriting phase, the robustness of a lean investment process
+    ensures safe and fast execution. Social aspects are embedded in the asset management activities
+    and typically depend on the peculiarities of the assets and of the communities in which it is located.
+
+Among others, the implemented actions are also aiming at mitigating the “Exposure to fossil fuels through
+real estate assets” and “Exposure to energy-inefficient real estate assets" PAIs.
+
+In the long term, if engagement activities are not deemed adequate in relation to PAIs, corrective measures
+will be provided on a case-by-case basis.
+
+In carrying out the engagement activities with the tenants, GRE collects and monitors periodically all the
+data required to compute the indicators for representing the impacts. This allows us to act purposefully in
+the case of observation of no reduction of the principal adverse impacts over more than one period reported
+on.
+
+With specific reference to the real estate sector, it should be noted that the effectiveness of data monitoring
+is subject to limited capacity in terms of resources and data systems dedicated to the sustainability
+information management.
+
+Furthermore, it is proper to mention that, due to the peculiarity of the real estate sector, GHG emissions and
+energy consumption annual data are strictly related to building occupancy, tenants’ habits and climate-
+atmospheric patterns and temperature trends by geographical area, and this may lead to a limitation of time
+series comparability.
+
+### References to international standards
+
+The Generali Group Strategy on Climate Change is a key reference point for GRE SGR, and it provides an
+overview of the decisions taken to promote a fair and socially just transition to a net-zero emission economy,
+in line with the objectives of the Paris Agreement, the Net-Zero Asset Owner Alliance and the Net-Zero
+Insurance Alliance.
+GRE SGR commitment to continuous improvement in both real estate transactions and within the industry
+is highlighted in the support, as part of the Generali Group, of the following international initiatives:
+
+```
+International
+Regulation Description^ Reconduction to PAIs^
+```
+```
+UN Sustainable
+Development Goals
+```
+```
+The Sustainable Development Goals (SDGs) were
+adopted by the United Nations in 2015 as a universal call
+to action to end poverty, protect the planet, and ensure
+that by 2030 all people enjoy peace and prosperity.
+```
+```
+The nature of the international
+initiative allows it to be linked to
+all the considered PAIs
+```
+```
+UN Global Compact
+```
+```
+The United Nations Global Compact is a voluntary
+initiative for global corporations to commit to responsible
+business practices in the areas of human rights, labor,
+the environment, and corruption.
+```
+```
+The nature of the international
+initiative allows it to be linked to
+all the considered PAIs
+```
+
+```
+UN PRI
+```
+```
+The Principles for Responsible Investment (or PRIs)
+were launched by the United Nations in 2006 with the
+intention of promoting the spread of sustainable and
+responsible investing among institutional investors;
+adherence to the PRIs entails compliance with and
+application of the following principles:
+```
+- incorporate environmental, social and governance
+(ESG) parameters in financial analysis and decision-
+making processes regarding investments;
+- being active shareholders and incorporating ESG
+parameters into shareholder policies and practices;
+- require reporting on ESG parameters by companies
+under investment;
+- promote acceptance and implementation of the
+Principles in the financial industry;
+- collaborate to improve the implementation of the
+Principles;
+- report periodically on activities and progress in
+implementing the Principles.
+
+```
+The nature of the international
+initiative allows it to be linked to
+all the considered PAIs.
+```
+```
+Net-Zero Asset Owner
+Alliance (NZAOA)
+```
+```
+An initiative of institutional investors committed to
+transitioning their investment portfolios to net-zero GHG
+emissions by 2050 – consistent with a maximum
+temperature rise of 1.5°C.
+The Alliance members are the finance industry’s first to
+set intermediate targets, which include CO 2 reduction
+ranges for 2025 (22 – 32%) and for 2030 (40% – 60%).
+```
+```
+KPI 18: GHG emissions
+```
+```
+WEF Environmental
+Sustainability Principles
+for the Real Estate
+Industry
+```
+```
+The World Economic Forum aims to develop a common
+set of environmental principles in partnership with the
+real estate industry. The goal of this effort is to ensure
+that the decision-making and operations of real estate
+firms place a high priority on becoming environmentally
+sustainable.
+```
+```
+KPI 17: Exposure to fossil fuels
+through real estate assets
+```
+```
+KPI 18: Exposure to energy-
+inefficient real estate assets
+```
+```
+KPI 18: GHG Emissions
+```
+```
+KPI 19: Energy consumption
+intensity
+```
+In carrying out its analyses, GRE SGR applies the scenario methodology developed by the Carbon Risk
+Real Estate Monitor (“CRREM”) provides the real estate industry with transparent, science-based
+decarbonization pathways that are aligned with the Paris Climate Goals of limiting global temperature
+increase to 2°C, with an ambition to reach 1.5°C. CRREM offers a comprehensive framework focused on
+carbon risk exposure and potential strategies to reduce this risk, and includes the elements needed to
+undertake scenario analysis.
+For more details on the physical and transitional risk analysis, please refer to the section “Description of
+policies to identify and prioritize principal adverse impacts on sustainability factors”.
+
+### Historical comparison
+
+The historical comparison of the reporting period with the previous one will be made starting with the
+following reporting period.
+
+
+
