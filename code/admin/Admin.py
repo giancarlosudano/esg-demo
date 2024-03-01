@@ -13,14 +13,6 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 logger = logging.getLogger('azure.core.pipeline.policies.http_logging_policy').setLevel(logging.WARNING)
 
 st.set_page_config(page_title="Admin", page_icon=os.path.join('images','favicon.ico'), layout="wide", menu_items=None)
-# mod_page_style = """
-#             <style>
-#             #MainMenu {visibility: hidden;}
-#             footer {visibility: hidden;}
-#             header {visibility: hidden;}
-#             </style>
-#             """
-# st.markdown(mod_page_style, unsafe_allow_html=True)
 
 gre_statement_file = open(os.path.join('docs', 'gre-sgr-statement.txt'), 'r', encoding='utf-8')
 statement = gre_statement_file.read()
